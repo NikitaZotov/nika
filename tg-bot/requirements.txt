@@ -1,0 +1,5 @@
+py-sc-kpm==0.4.0
+py-sc-client==0.4.0
+requests==2.31.0
+bs4
+aiogram
